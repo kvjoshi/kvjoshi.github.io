@@ -46,10 +46,10 @@ linkedin_username: karmavir-joshi-38b882a0
 # about_title: About Me (Use this to override about section title)
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
-Hi, my name's Karmavir and I'm a Freelance Web Developer. Aspiring to be a Full Time Data Analyst I am looking out for opportunities to carve out
-a future in world of Analytics and Data Management.
-I have experience in remote working and pair programming.
-Through continuous retrospect, I aim to become a developer who has grown more today than yesterday .
+  Hi, my name's Karmavir and I'm a Freelance Web Developer. Aspiring to be a Full Time Data Analyst I am looking out for opportunities to carve out
+  a future in world of Analytics and Data Management.
+  I have experience in remote working and pair programming.
+  Through continuous retrospect, I aim to become a developer who has grown more today than yesterday .
 
   I am most skilled in: <mark>Web Development</mark> and <mark>Data Analysis</mark>
 
