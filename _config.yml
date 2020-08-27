@@ -1,5 +1,5 @@
 # Site
-# repository: kvjoshi/kvjoshi.github.io
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
@@ -7,7 +7,7 @@ name: Karmavir Joshi
 title: Full-Stack Developer / Data Analyst
 email: karmavirj@live.com
 phone: +918141283971
-website: www.developthat.tech
+website: http://www.developthat.tech
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -39,7 +39,7 @@ linkedin_username: karmavir-joshi-38b882a0
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
  # gtm: "GTM-0000000"
-  gtag: "UA-156417955-3"
+gtag: "UA-156417955-3"
  # google_analytics: "UA-156417955-3"
 
 # About Section
