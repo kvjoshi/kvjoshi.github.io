@@ -1,9 +1,29 @@
 # Project template
 - layout: top-middle
-  name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+  name: DLearn
+
   quote: >
-    Short overview of the project (optional)
+    Management , Learning and Test Portal For Schools
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    * Admin , Faculty and Student Portals
+    * E-Content Sharing
+    * Test / Quiz Portal
+    * Class , Student , Fee , Schedule Management
+    * Attandence Tracking
+    * Internal Chat For Study Group , Class and Individual
+    * Built Using PHP , Javascript and Jquery
+
+- layout: top-middle
+  name: SMIMS
+
+  quote: >
+    Inventory Management , Supply Chain Tracking And Production/Raw Material Prediction
+  description: | # this will include new lines to allow paragraphs
+    * End Product and Raw Material Inventory Management
+    * Supply Chain Tracking at every Step
+    * Order and Client Management
+    * Raw Material Usage Prediction using Linear Regression
+    * Production Outcome and Wastage Prediction
+    * Raw Material Purchase Suggestion based on Past order and Production
+    * Automatice Raw Material Order based on Due Orders and Inventory
+    * Built Using PHP , Python , Javascript and Jquery

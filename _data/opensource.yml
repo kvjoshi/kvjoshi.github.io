@@ -1,0 +1,7 @@
+- layout: left
+  name: Keystroke Dynamics Anomaly Detection
+  link: https://github.com/kvjoshi/keystroke-dynamics
+  description: | # this will include new lines to allow paragraphs
+      * Pattern Recognition of Keystrokes
+      * Created Using Jquery
+      * Mini Project For Integration in WebApp

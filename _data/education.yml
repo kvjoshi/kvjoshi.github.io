@@ -1,9 +1,22 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
-  quote: >
-    Short institution or course description (optional)
+  name: Carmel Convent School , Junagadh
+  dates: 2000-2011
+  qualification: Primary Education and Secondary Education
+
+- layout: left
+  name: Vidhyaniketan High School , Rajkot
+  dates: 2011-2014
+  qualification: SSC , HSC
+
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    * SSC : 76.8 Percentage
+    * HSC : 70.92 Percentage
+
+- layout: left
+  name: Marwadi Education Foundation Group Of Institutions (FOE) , Rajkot
+  dates: 2014-2019
+  qualification: Bachalor Of Computer Engineering
+
+  description: | # this will include new lines to allow paragraphs
+    * CGPA : 6.8

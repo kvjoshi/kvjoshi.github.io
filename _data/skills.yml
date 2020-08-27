@@ -1,0 +1,25 @@
+- layout: left
+  name: Technology used/learned as the main focus
+  description: | # this will include new lines to allow paragraphs
+    * PHP
+    * Python
+    * HTML/CSS
+    * MySQL, PostgreSQL
+    * Django
+    * Javascript (ES6)
+    * React.js
+    * IntelliJ, Git
+
+- layout: left
+  name: Frequently used Technology
+  description: | # this will include new lines to allow paragraphs
+    * Azure Cloud , AWS , Heroku
+    * Arduino
+    * Blackfire.io , Honeybadger.io ,Travis CI , Slider
+    * Linux
+- layout: left
+  name: Other Skills
+  description: | # this will include new lines to allow paragraphs
+    * Python Libraries: Pandas , SciPy , NumPy , Matplotlib ,Scikit Learn , NLTK
+    * Novice User of IBM Watson
+    * Experience in Google Vision API and Azure Computer vision API
