@@ -10,7 +10,7 @@ phone: +918141283971
 website: http://www.developthat.tech
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 #twitter_username: jekyllrb
@@ -50,7 +50,7 @@ about_content: |+ # this will include new lines to allow paragraphs
   I have experience in remote working and pair programming.
 
   Through continuous retrospect, I aim to become a developer who has grown more today than yesterday .
-  
+
   I am most skilled in: <mark>Web Development</mark> and <mark>Data Analysis</mark>
 
 
@@ -65,7 +65,7 @@ about_content: |+ # this will include new lines to allow paragraphs
 
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
+more_content: # this will include new lines to allow paragraphs
 # Footer
 footer_show_references: true
 
