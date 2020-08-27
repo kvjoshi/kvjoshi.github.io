@@ -1,10 +1,10 @@
 # Education Template
-- layout: left
+- layout: top-middle
   name: Carmel Convent School , Junagadh
   dates: 2000-2011
   qualification: Primary Education and Secondary Education
 
-- layout: left
+- layout: top-middle
   name: Vidhyaniketan High School , Rajkot
   dates: 2011-2014
   qualification: SSC , HSC
@@ -13,7 +13,7 @@
     * SSC : 76.8 Percentage
     * HSC : 70.92 Percentage
 
-- layout: left
+- layout: top-middle
   name: Marwadi Education Foundation Group Of Institutions (FOE) , Rajkot
   dates: 2014-2019
   qualification: Bachalor Of Computer Engineering
