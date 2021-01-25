@@ -13,7 +13,7 @@ website: http://www.developthat.tech
 darkmode: true
 
 # Social links
-#twitter_username: jekyllrb
+twitter_username: not_kv
 github_username:  kvjoshi
 #stackoverflow_username: "00000001"
 #dribbble_username: jekyll
@@ -44,7 +44,7 @@ gtag: "UA-156417955-3"
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: assets/kv.jpg
 about_content: |+ # this will include new lines to allow paragraphs
   Hi, my name's Karmavir and I'm a Freelance Web Developer. Aspiring to be a Full Time Data Analyst I am looking out for opportunities to carve out a future in world of Analytics and Data Management.
   I have experience in remote working and pair programming.
