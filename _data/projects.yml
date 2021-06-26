@@ -5,12 +5,13 @@
   quote: >
     Management , Learning and Test Portal For Schools
   description: | # this will include new lines to allow paragraphs
-    * Admin , Faculty and Student Portals
+    * Admin , Faculty and Student Portals With A Website To Enroll to Classes
     * E-Content Sharing
     * Test / Quiz Portal
-    * Class , Student , Fee , Schedule Management
+    * Class , Student , Faculty , Fee , Schedule Management
     * Attandence Tracking
     * Internal Chat For Study Group , Class and Individual
+    * Blogs
     * Built Using PHP , Javascript and Jquery
 
 - layout: top-middle
@@ -27,3 +28,16 @@
     * Raw Material Purchase Suggestion based on Past order and Production
     * Automatice Raw Material Order based on Due Orders and Inventory
     * Built Using PHP , Python , Javascript and Jquery
+
+- layout: top-middle
+  name: B2B Supplychain Boilerplate
+
+  quote: >
+    Inventory Management And Supply Chain Tracking
+  description: | # this will include new lines to allow paragraphs
+    * Supply Chain Tracking at every Step
+    * Inventory Management
+    * Order and Client Management
+    * Invoicing 
+    * Logistic Tracking
+    * Built Using React and Firebase (Planning to Change To AWS Lamba)
